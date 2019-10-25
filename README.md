@@ -17,3 +17,4 @@ Dump1090 + Driver + dll
 7)So use the keyboard shortcut "CTRL + O" to open python script in the Spyder IDE
 8)Run it using keybord shortcut "F5"
 9)If there aren't troubles, open browser and type on andress bar "localhost:1000"
+ 
