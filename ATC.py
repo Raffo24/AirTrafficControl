@@ -194,7 +194,7 @@ def tracker(doc):
 
     
     # Metto un nome alla mappa
-    doc.title = "Air Traffic Control at Home"
+    doc.title = "Air Traffic Control"
     
     # Imposto la mappa e datatable come radice per lo streaming
     doc.add_root(
