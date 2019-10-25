@@ -1,5 +1,5 @@
 # Air Traffic Control
-Air Traffic Control is a visualization software that, paired with Dump1090, identifies and calculate the coordinates of the aircraft
+Air Traffic Control is a visualization software that, paired with Dump1090, identifies and calculate the coordinates of the aircrafts
 # System requirements
 * Operating system: Windows 7 or newer
 * Anaconda(recommended spyder IDE) with python 3.7
