@@ -3,7 +3,7 @@ Air Traffic Control is a visualization software that, paired with Dump1090, iden
 # System requirements
 * Operating system: Windows 7 or newer
 * Anaconda(recommended spyder IDE) with python 3.7
-* A Dongle rtl-sdr with chip realtek RTL2832U, specific to 1090mHz and Standard ADS-B
+* A Dongle rtl-sdr with chip realtek RTL2832U, specific to 1090mHz and ADS-B Standard https://en.wikipedia.org/wiki/Automatic_dependent_surveillance_%E2%80%93_broadcast
 * An antenna compatible with 1090mHz
 * Dump1090 + Driver + dll
 # How To Download And Install Dependences
