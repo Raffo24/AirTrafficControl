@@ -26,5 +26,5 @@ Contributing
 Credits
 ---
 * The entire structure of the project is thinked by Raffaele Ruggeri <raffaele.ruggeri.2000@gmail.com>, that worked from the build of the receiver cooling until the database extraction. 
-* Instead, the entire visualization software is written by Giulio Zaghis <giulio.zaghis@gmail.com>, that worked on the code to have the best possible use experience.
+* Instead, the entire visualization software is written by Giulio Zaghis <giulio.zaghis@gmail.com>, that worked on the code to have the best possible user experience.
 * (Raffaele and Giulio are both students of the high school Plinio Seniore)
