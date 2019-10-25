@@ -21,7 +21,7 @@ Air Traffic Control is a visualization software that, paired with Dump1090, iden
 Contributing
 ---
 * The project is born from an idea of the Engineer Bernardini (of the British Interplanetary Society), in collaboration with the professor Alberto Bigazzi of the Scientific High School of Rome "Plinio Seniore", to partecipate to Maker Faire 2019(the European Edition).
-* A foundamental help was given to us by this page of the site Geodose https://www.geodose.com/2019/01/realtime-flight-tracking-pandas-bokeh-python.html , and by the perfect "Dump1090" written by Salvatore Sanfilippo <antirez@gmail.com>
+* A foundamental help was given to us by this page of the site Geodose https://www.geodose.com/2019/01/realtime-flight-tracking-pandas-bokeh-python.html to write the visualization software, and by the software "Dump1090" written by Salvatore Sanfilippo <antirez@gmail.com>
 
 Credits
 ---
