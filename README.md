@@ -32,4 +32,4 @@ Credits
 
 Contributors
 ---
-* A foundamental help was given to us by this page of the site Geodose https://www.geodose.com/2019/01/realtime-flight-tracking-pandas-bokeh-python.html to write the visualization software, and by the software "Dump1090" written by Salvatore Sanfilippo <antirez@gmail.com>
+* A foundamental help was given to us by this site https://www.geodose.com/2019/01/realtime-flight-tracking-pandas-bokeh-python.html to write the visualization software, and by the software "Dump1090" written by Salvatore Sanfilippo <antirez@gmail.com>
