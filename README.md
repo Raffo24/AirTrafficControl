@@ -22,10 +22,6 @@ Disclaimer
 ---
 * In some countries, setting up a receiving station may require HamRadio licence or other form of authorization. Please verify  compliance with your Country Regulations prior to setting up your project
 
-Contributors
----
-* A foundamental help was given to us by this page of the site Geodose https://www.geodose.com/2019/01/realtime-flight-tracking-pandas-bokeh-python.html to write the visualization software, and by the software "Dump1090" written by Salvatore Sanfilippo <antirez@gmail.com>
-
 Credits
 ---
 * The Entire Software Architecture is designed by Raffaele Ruggeri <raffaele.ruggeri.2000@gmail.com> (from the hardware implementation up to database information extraction)
@@ -33,3 +29,7 @@ Credits
 * Project was supervised by Dr. A. Bigazzi, Maths and Physics teacher at Plinio Seniore High in Rome (IT)
 * The project is born from an idea of the Engineer Bernardini (of the British Interplanetary Society)
 * A special thanks also to managers: M.Sabatino <martina.sabatino.MS@gmail.com>, I.Serafini <irene.serafini.ISS@gmail.com> and G.Fioravanti <giulia.fioravanti16@gmail.com>
+
+Contributors
+---
+* A foundamental help was given to us by this page of the site Geodose https://www.geodose.com/2019/01/realtime-flight-tracking-pandas-bokeh-python.html to write the visualization software, and by the software "Dump1090" written by Salvatore Sanfilippo <antirez@gmail.com>
