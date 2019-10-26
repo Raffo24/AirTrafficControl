@@ -22,7 +22,7 @@ Disclaimer
 ---
 * In some countries, setting up a receiving station may require HamRadio licence or other form of authorization. Please verify  compliance with your Country Regulations prior to setting up your project
 
-Contributing
+Contributors
 ---
 * A foundamental help was given to us by this page of the site Geodose https://www.geodose.com/2019/01/realtime-flight-tracking-pandas-bokeh-python.html to write the visualization software, and by the software "Dump1090" written by Salvatore Sanfilippo <antirez@gmail.com>
 
