@@ -32,4 +32,4 @@ Credits
 * The Developer of the entire Visualization Software is Giulio Zaghis <giulio.zaghis@gmail.com>, (from the first to the last line of the python code)
 * Project was supervised by Dr. A. Bigazzi, Maths and Physics teacher at Plinio Seniore High in Rome (IT)
 * The project is born from an idea of the Engineer Bernardini (of the British Interplanetary Society)
-* A special thanks also to managers: M.Sabatino <martina.sabatino.MS@gmail.com>, I.Serafini <irene.serafini.ISS@gmail.com>, G.Fioravanti <giulia.fioravanti16@gmail.com>
+* A special thanks also to managers: M.Sabatino <martina.sabatino.MS@gmail.com>, I.Serafini <irene.serafini.ISS@gmail.com> and G.Fioravanti <giulia.fioravanti16@gmail.com>
