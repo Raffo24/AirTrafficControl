@@ -18,13 +18,18 @@ Air Traffic Control is a visualization software that, paired with Dump1090, iden
 * Run it using keybord shortcut "F5"
 * If there aren't troubles, open browser and type on andress bar "localhost:1000"
 
+Disclaimer
+---
+* In some countries, setting up a receiving station may require HamRadio licence or other form of authorization. Please verify  compliance with your Country Regulations prior to setting up your project
+
 Contributing
 ---
-* The project is born from an idea of the Engineer Bernardini (of the British Interplanetary Society), in collaboration with the professor Alberto Bigazzi of the Scientific High School of Rome "Plinio Seniore", to partecipate to Maker Faire 2019(the European Edition).
 * A foundamental help was given to us by this page of the site Geodose https://www.geodose.com/2019/01/realtime-flight-tracking-pandas-bokeh-python.html to write the visualization software, and by the software "Dump1090" written by Salvatore Sanfilippo <antirez@gmail.com>
 
 Credits
 ---
-* The entire structure of the project is thinked by Raffaele Ruggeri <raffaele.ruggeri.2000@gmail.com>, that worked from the build of the receiver cooling until the database extraction. 
-* Instead, the entire visualization software is written by Giulio Zaghis <giulio.zaghis@gmail.com>, that worked on the code to have the best possible user experience.
-* (Raffaele and Giulio are both students of the high school Plinio Seniore)
+* The Entire Software Architecture is designed by Raffaele Ruggeri <raffaele.ruggeri.2000@gmail.com> (from the hardware implementation up to database information extraction)
+* The Developer of the entire Visualization Software is Giulio Zaghis <giulio.zaghis@gmail.com>, (from the first to the last line of the Visualization Software's code)
+* Project was supervised by Dr. A. Bigazzi, Maths and Physics teacher at Plinio Seniore High in Rome (IT)
+* The project is born from an idea of the Engineer Bernardini (of the British Interplanetary Society)
+* A special thanks also to managers: M.Sabatino <martina.sabatino.MS@gmail.com>, I.Serafini <irene.serafini.ISS@gmail.com>, G.Fioravanti <giulia.fioravanti16@gmail.com>
